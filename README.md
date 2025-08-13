@@ -6,7 +6,7 @@ A modern, lightweight chat platform built with **PHP**, **MySQL**, and **Vanilla
 
 ##  Live Demo
 
-[Try the Live Demo now](chatapp.infinityfreeapp.com)  
+[Try the Live Demo now](https://chatapp.infinityfreeapp.com/)  
 
 ---
 
